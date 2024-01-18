@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Jamie's Obsidian Notes
 ---
 
 This is a blank Quartz installation.
