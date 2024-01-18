@@ -3,7 +3,7 @@ date: 21-08-2023
 type: Lecture
 subject: Chapter 5
 tags: lecture
-Topic:: 
+Topic:
 ---
 # [[Derivatives]]
 #MATH1051

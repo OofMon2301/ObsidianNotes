@@ -2,9 +2,7 @@
 date: 12-09-2023
 type: Lecture
 subject: Revision
-tags:
-  - lecture
-"Topic:": Integration
+tags: Integration
 ---
 # [[Integration]]
 #MATH1051

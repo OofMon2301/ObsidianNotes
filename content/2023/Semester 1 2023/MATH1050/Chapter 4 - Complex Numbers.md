@@ -3,7 +3,7 @@ date: 14-03-2023
 type: Lecture
 subject: 
 tags: lecture
-Topic:: Complex Numbers
+Topic: Complex Numbers
 ---
 # [[Chapter 4 - Complex Numbers]]
 #MATH1050 #ComplexNumbers

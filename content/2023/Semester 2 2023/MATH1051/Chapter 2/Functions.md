@@ -3,7 +3,7 @@ date: 25-07-2023
 type: Lecture
 subject: 
 tags: lecture
-Topic:: 
+Topic:
 ---
 # [[Functions]]
 #MATH1051

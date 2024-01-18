@@ -3,7 +3,7 @@ date: 09-03-2023
 type: Lecture
 subject: 
 tags: lecture
-Topic:: 
+Topic:
 ---
 # [[Seminar 2 - Power and Control Subsystem]]
 #ENGG1100 #Seminar

@@ -3,7 +3,7 @@ date: 21-08-2023
 type: Lecture
 subject: Chapter 6
 tags: lecture
-Topic:: 
+Topic:
 ---
 # [[Mid-Semester Exam]]
 #ENGG1300

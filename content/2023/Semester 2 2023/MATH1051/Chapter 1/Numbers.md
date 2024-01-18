@@ -3,7 +3,7 @@ date: 25-07-2023
 type: Lecture
 subject: Chapter 0
 tags: lecture
-Topic:: 
+Topic:
 ---
 # [[Numbers]]
 #MATH1051

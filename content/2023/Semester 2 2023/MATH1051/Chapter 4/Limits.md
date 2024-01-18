@@ -3,7 +3,7 @@ date: 07-08-2023
 type: Lecture
 subject: 
 tags: lecture
-Topic:: 
+Topic:
 ---
 # [[Limits]]
 #MATH1051

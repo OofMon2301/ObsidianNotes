@@ -3,7 +3,7 @@ date: 04-04-2023
 type: Lecture
 subject: 
 tags: lecture
-Topic:: 
+Topic:
 ---
 # [[Direct Proofs and Counterexamples]]
 #MATH1061

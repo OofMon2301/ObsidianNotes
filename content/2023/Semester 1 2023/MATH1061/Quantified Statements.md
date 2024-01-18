@@ -3,7 +3,7 @@ date: 02-03-2023
 type: Lecture
 subject: MATH1050
 tags: lecture
-Topic:: 
+Topic:
 ---
 # [[Quantified Statements]]
 #MATH1061

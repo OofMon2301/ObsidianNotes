@@ -3,7 +3,7 @@ date: 30-06-2023
 type: Lecture
 subject: MATH1050
 tags: lecture
-Topic:: 
+Topic:
 ---
 # [[MATH1050 Homepage]]
 #MATH1050

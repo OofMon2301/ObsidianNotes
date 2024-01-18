@@ -3,7 +3,7 @@ date: 20-04-2023
 type: Lecture
 subject: 
 tags: lecture
-Topic:: 
+Topic:
 ---
 # [[Modular Arithmetic]]
 #MATH1061

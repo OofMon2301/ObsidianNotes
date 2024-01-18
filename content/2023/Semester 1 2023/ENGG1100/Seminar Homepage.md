@@ -3,7 +3,7 @@ date: 30-06-2023
 type: Lecture
 subject: Templates
 tags: lecture
-Topic: : 
+Topic:
 ---
 # [[Seminar Homepage]]
 #ENGG1100 #Homepage

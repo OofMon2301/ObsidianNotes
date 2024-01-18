@@ -3,7 +3,7 @@ date: 15-04-2023
 type: Lecture
 subject: 
 tags: lecture
-Topic:: 
+Topic:
 ---
 # [[Chapter 7 - Functions]]
 #MATH1050 #Functions

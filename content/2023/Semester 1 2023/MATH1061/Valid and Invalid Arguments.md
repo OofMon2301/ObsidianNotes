@@ -3,7 +3,7 @@ date: 28-02-2023
 type: Lecture
 subject: MATH1061
 tags: lecture
-Topic:: 
+Topic:
 ---
 # [[Valid and Invalid Arguments]]
 #MATH1061

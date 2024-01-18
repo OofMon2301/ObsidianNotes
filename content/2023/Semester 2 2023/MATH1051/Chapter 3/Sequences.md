@@ -3,7 +3,7 @@ date: 31-07-2023
 type: Lecture
 subject: 
 tags: lecture
-Topic:: 
+Topic:
 ---
 # [[Sequences]]
 #MATH1051

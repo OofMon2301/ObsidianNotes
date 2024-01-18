@@ -3,7 +3,7 @@ date: 24-02-2023
 type: Lecture
 subject: MATH1061
 tags: lecture
-Topic:: Logical Form
+Topic: Logical Form
 ---
 # [[Logical Form and Logical Equivalence]]
 #MATH1061
