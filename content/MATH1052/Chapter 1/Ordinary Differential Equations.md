@@ -1,5 +1,5 @@
 ---
-date: '02-12-2023'
+date: 02-12-2023
 type: Lecture
 subject: Week 1
 tags: ODEs

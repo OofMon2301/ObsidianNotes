@@ -1,5 +1,5 @@
 ---
-date: `2024-01-01`
+date: 01-01-2024
 type: lecture
 subject: $SUBJECT
 field: $FIELD
