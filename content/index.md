@@ -2,7 +2,6 @@
 title: Jamie's Obsidian Notes 
 ---
 
-
 <img src="nishanul_nishat-05-06-2023-0001.jpg" alt="icon" style="width: 50px; height: 50px;">
 This is a collection of my personal notes and thoughts. Please note that this is a work in progress and may contain incomplete or inaccurate information.
 
