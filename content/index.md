@@ -1,7 +1,7 @@
 ---
-title: Jamie's Obsidian Notes
+title: Jamie's Obsidian Notes 
 ---
-
+![Alt text](nishanul_nishat-05-06-2023-0001.jpg)
 This is a collection of my personal notes and thoughts. Please note that this is a work in progress and may contain incomplete or inaccurate information.
 
 ## Contents
