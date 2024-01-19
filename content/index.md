@@ -3,16 +3,6 @@ title: Jamie's Obsidian Notes
 ---
 
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-R8J8GQPQ0Q"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-R8J8GQPQ0Q');
-</script>
-
 <img src="nishanul_nishat-05-06-2023-0001.jpg" alt="icon" style="width: 50px; height: 50px;">
 This is a collection of my personal notes and thoughts. Please note that this is a work in progress and may contain incomplete or inaccurate information.
 
