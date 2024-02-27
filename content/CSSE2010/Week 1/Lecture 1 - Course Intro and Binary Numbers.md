@@ -8,12 +8,12 @@ field: $SUBJECT
 ---
 #CSSE2010
 
-## Course Details
-## What this course is about (mainly)
+# Course Details
+# What This Course is about (mainly)
 
 We will learn about computers in different aspects.
 
-### Assessment Details - ECP Section 5
+## Assessment Details - ECP Section 5
 
 - In-semester theory exam (20%)
 - In-semester lab exam (10%)
@@ -52,21 +52,21 @@ Modern computers deal with words which are usually a power of 2 number of bytes,
 
 ## Representing Whole (Unsigned) Numbers in Binary
 
-Each bit position has a value:
+Each [[bit]] position has a value:
 
 ![[Pasted image 20240219082701.png]]
 
 Converting binary to decimal:
-*Add values of each position where bit is 1*
+*Add values of each position where [[bit]] is 1*
 ![[Pasted image 20240219082732.png]]
 
-## Least and Most significant Bits
+## Least and Most Significant Bits
 
 There are two types of Bits:
 - Least Significant Bit
-	-  The least significant bit is the position on the far right that is 'worth' (in value) the least.
+	-  The least significant [[bit]] is the position on the far right that is 'worth' (in value) the least.
 - Most Significant Bit
-	- The most significant bit is the position on the *left* that is 'worth' (in value) the most.
+	- The most significant [[bit]] is the position on the *left* that is 'worth' (in value) the most.
 	- For an $n-$bit unsigned word, the MSB is worth $2^{n-1}$.
 ![[Pasted image 20240219084043.png]]
 

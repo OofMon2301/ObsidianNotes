@@ -32,7 +32,7 @@ collapse: open
 
 A *solution* of an ODE is a function $y(x)$ that satisfies the ODE for all $x$ in some (real) domain.
 
-A solution	 to an $n$-th order ODE contains up to $n$ arbitrary constants.
+A solution	 to an $n$-th order [[2024/Definitions/ODE|ODE]] contains up to $n$ arbitrary constants.
 ```
 
 #### Initial Value Problem (IVP)
@@ -86,7 +86,7 @@ y'&=\frac{d}{dx}\left(A\exp x^{2}/2 \right)\\
 &\therefore \text{ RHS as required}
 \end{aligned}
 $$
-When asked to *solve* an ODE, you are expected to **find all possible solutions**. 
+When asked to *solve* an [[2024/Definitions/ODE|ODE]], you are expected to **find all possible solutions**. 
 
 Solving [[ODE]] of various forms. For an [[ODE]] that involves only the unknown function $y$ and its first [[Derivatives]], the general solution will involve *one* arbitrary constant.
 
@@ -98,11 +98,11 @@ $$
 $$
 This is the general solution for this [[ODE]].
 
-#### 1.1.4 Initial value problems
+#### 1.1.4 Initial Value Problems
 
-An [[2023/Definitions/IVP|Initial Value Problem]] (IVP) is the problem of solving an ODE subject to some initial conditions of the form $y(t_{0})=a, \ y'(t_{0})=b$, etc.
+An [[2023/Definitions/IVP|Initial Value Problem]] ([[IVP]]) is the problem of solving an ODE subject to some initial conditions of the form $y(t_{0})=a, \ y'(t_{0})=b$, etc.
 
-The solution to an initial value problem no longer contains arbitrary constants from the general solution to the [[ODE]] - these are determined by the inital conditions.
+The solution to an initial value problem no longer contains arbitrary constants from the general solution to the [[ODE]] - these are determined by the initial conditions.
 
 ##### Example
 > [!help]+ Question
@@ -119,7 +119,7 @@ The highest order [[Derivatives]] in an [[ODE]] defines the order of the [[ODE]]
 
 That would mean that first derivative, e.g. $\dot{x}$ would have a higher order of the [[ODE]] than $\ddot{x}$ and so on.
 
-#### 1.1.6 Riding your bike at constant speed
+#### 1.1.6 Riding Your Bike at Constant Speed
 Find the position of your bike (at time $t$) if you are travelling at a constant speed	 of 60km/h along a perfectly straight road.
 
 If $x=x(t)$ is the distance you have travelled at time $t$ then the corresponding [[ODE]] is
@@ -130,7 +130,7 @@ This yields the general solution to the [[ODE]]
 $$
 x(t)= 60t+C
 $$
-To determine the constant $C$ we need more info, such as the initial position at time 0, in which that would be IVP.
+To determine the constant $C$ we need more info, such as the initial position at time 0, in which that would be [[IVP]].
 
 For different vales of $C$ we get different solutions, and below we graph some of these. If $C=0$ then $y=60t$. All the other solutions are parallel to this line.
 
@@ -165,7 +165,7 @@ For slower objects, a good model has air resistance proportional to velocity:
 Realistic models may also include the fact that gravity diminishes as you move away from the earth's surface (Newton's inverse square law).
 
 ##### Example
-Consider the motion of a ball subject to air resistance proportional to the square of the speed. Note that the air resistance vector is always directed against the direction of motion.
+Consider the motion of a ball subject to air resistance proportional to the square of the speed. Note that the air resistance [[vector]] is always directed against the direction of motion.
 
 Decompose the coordinates to $x$ and $y$ directions and again apply [[Newton's 2nd law of motion]].
 
@@ -188,7 +188,7 @@ $$
 $$
 This is a coupled system of [[ODE]] which is extremely difficult to solve analytically. However, numerical solutions are easy to obtain.
 
-#### 1.1.9 Analytical and numerical solutions
+#### 1.1.9 Analytical and Numerical Solutions
 To solve an [[ODE]] (or [[IVP]]) analytically means to give a solution curve in terms of continuous functions defined over a specific interval, where the solution is obtained exactly by analytic means (e.g., by integration). The solutions satisfies the [[ODE]] (and initial conditions) on direct substitution.
 
 To solve an [[ODE]] or IVP *numerically* means to use an algorithm to generate a sequence of points which approximates a solution curve.
@@ -232,9 +232,9 @@ title: Ways to Solve General Form ODEs
 
 From the slope field of $y'(t)=2y$, we can see that $y=0$ is one of the solution curves. It is a constant or [[Equilibrium Solution]]. 
 
-#### 1.2.3 Stability of equilibrium solutions
+#### 1.2.3 Stability of Equilibrium Solutions
 
-From a slope field, you can decide whether an equilibrium solution is stable or not by determining if solution curves will tend toward the equilibrium solution or away as time increases.
+From a slope field, you can decide whether an [[2024/Definitions/Equilibrium Solution|equilibrium solution]] is stable or not by determining if solution curves will tend toward the equilibrium solution or away as time increases.
 
 Formally, an equilibrium solution $y(t)=y_{0}$ to the differential equation $y'=f(t,y)$ is stable if the initial value problem:
 $$
@@ -255,13 +255,13 @@ In other words, if you start sufficiently close to a stable [[Equilibrium Soluti
 > - You should understand how to generate and interpret slope fields.
 > - You should understand what is meant by an equilibrium solution and how to find one.
 > - You should be able to determine the stability of an equilibrium solution.
-> - You should understand that uniqueness of solutions to an IVP implies that solutions cannot cross.
+> - You should understand that uniqueness of solutions to an [[IVP]] implies that solutions cannot cross.
 
 ---
 
 ---
 
-### 1.3 Euler's Method for solving ODEs numerically
+### 1.3 Euler's Method for Solving ODEs Numerically
 
 [[Euler's Method]] uses [[Tangent Lines|tangent lines]]  as approximations to solution curves. The tangent line to a solution curve of $y'=f(t,y)$ at $(t_{0},y_{0})$ is
 $$
@@ -279,7 +279,7 @@ y_{1}=y_{0}+f(t_{0},y_{0})\nabla t
 $$
 and so on.
 
-#### 1.3.2 Euler's Method using Matlab; an example
+#### 1.3.2 Euler's Method Using Matlab; an Example
 
 ![[Pasted image 20240111222740.png]]
 
@@ -314,7 +314,7 @@ $$
 > [!attention]+
 > The last two steps are not always possible. Just try and simplify as best you can :D
 
-#### 1.4.3 Singular solutions
+#### 1.4.3 Singular Solutions
 
 For solving separable ODEs we always try and start by rewriting the equation as $\frac{1}{g(y)} \frac{dy}{dx}=f(x)$. Since we cannot divide by zero, this means that our method is only valid provided that $g(y)\neq 0$.
 
@@ -324,9 +324,9 @@ If there is such a case such as $\mathbf{a}$ such that $g(\mathbf{a})=0$ then th
 > [!summary]+ Main Points
 > - You should be able to identify a first-order separable ODE.
 > - You should know how to solve a separable ODE.
-> - You should understand that equilibrium and singular solutions are equivalent and must be checked for when solving a separable ODE.
+> - You should understand that equilibrium and singular solutions are equivalent and must be checked for when solving a separable [[2024/Definitions/ODE|ODE]].
 
-### 1.5 Applications: law of Cooling, Population Growth
+### 1.5 Applications: Law of Cooling, Population Growth
 
 
 #### 1.5.1 Newton's Law of Cooling
@@ -375,7 +375,7 @@ Given the ODE
 $$
 \frac{dy}{dt}+p(t)y=q(t)
 $$
-we multiply by the yet-to-be-found integrating factor $I(t)$:
+we multiply by the yet-to-be-found [[integrating factor]] $I(t)$:
 $$
 I(t) \frac{dy}{dt}+I(t)p(t)y = I(t)q(t)
 $$
