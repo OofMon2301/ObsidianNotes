@@ -1,9 +1,14 @@
 ---
+date: 2024-03-07
+---
+
+
+--
 date: 03-07-2023
 type: Lecture
 subject: MATH1051
 tags: lecture
-Topic:
+Topic:: 
 ---
 # [[Chapter 1 - Complex Numbers]]
 #Lecture Notes 2008

@@ -1,9 +1,9 @@
 ---
-date: 04-03-2023
+date: 2024-03-07
 type: Lecture
 subject: MATH1050
 tags: lecture
-Topic: Torque, Displacement, Velocity and Momentum
+Topic:: Torque, Displacement, Velocity and Momentum
 ---
 # [[Chapter 3 - Applications of Vectors]]
 #MATH1050 #Vectors

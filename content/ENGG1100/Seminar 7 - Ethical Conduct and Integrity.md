@@ -1,9 +1,9 @@
 ---
-date: 09-05-2023
+date: 2024-03-07
 type: Lecture
 subject: ENGG1100
 tags: lecture
-Topic: 
+Topic:: 
 ---
 # [[Seminar 7 - Ethical Conduct and Integrity]]
 #ENGG1100 #Seminar 

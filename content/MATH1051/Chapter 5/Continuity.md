@@ -1,9 +1,9 @@
 ---
-date: 07-08-2023
+date: 2024-03-07
 type: Lecture
 subject: Chapter 4
 tags: lecture
-Topic:
+Topic:: 
 ---
 # [[Continuity]]
 #MATH1051 

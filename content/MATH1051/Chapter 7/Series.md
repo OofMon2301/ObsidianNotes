@@ -1,9 +1,9 @@
 ---
-date: 22-08-2023
+date: 2024-03-07
 type: Lecture
 subject: Chapter 6
 tags: lecture
-Topic:
+Topic:: 
 ---
 # [[Series]]
 #MATH1051

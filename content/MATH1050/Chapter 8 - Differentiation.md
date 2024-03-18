@@ -1,9 +1,9 @@
 ---
-date: 12-05-2023
+date: 2024-03-07
 type: Lecture
 subject: MATH1050
 tags: lecture
-Topic:
+Topic:: 
 ---
 # [[Chapter 8 - Differentiation]]
 

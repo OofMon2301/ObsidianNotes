@@ -1,9 +1,9 @@
 ---
-date: 03-04-2023
+date: 2024-03-07
 type: Lecture
 subject: 
 tags: lecture
-Topic: 3D Vectors
+Topic:: 3D Vectors
 ---
 # [[Chapter 6 - Equations of Lines and Planes]]
 #MATH1050 #LinesPlanes

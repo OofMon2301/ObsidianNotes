@@ -1,9 +1,9 @@
 ---
-date: 12-09-2023
+date: 2024-03-07
 type: Lecture
 subject: Revision
 tags: lecture
-Topic:
+Topic:: 
 ---
 # [[Power Series and Taylor Series]]
 #MATH1051

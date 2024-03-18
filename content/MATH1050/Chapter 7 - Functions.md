@@ -1,9 +1,9 @@
 ---
-date: 15-04-2023
+date: 2024-03-07
 type: Lecture
 subject: 
 tags: lecture
-Topic:
+Topic:: 
 ---
 # [[Chapter 7 - Functions]]
 #MATH1050 #Functions

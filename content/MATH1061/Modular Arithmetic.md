@@ -1,9 +1,9 @@
 ---
-date: 20-04-2023
+date: 2024-03-07
 type: Lecture
 subject: 
 tags: lecture
-Topic:
+Topic:: 
 ---
 # [[Modular Arithmetic]]
 #MATH1061

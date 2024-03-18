@@ -1,9 +1,9 @@
 ---
-date: 30-06-2023
+date: 2024-03-07
 type: Lecture
 subject: MATH1050
 tags: lecture
-Topic:
+Topic:: 
 ---
 # [[MATH1050 Homepage]]
 #MATH1050
