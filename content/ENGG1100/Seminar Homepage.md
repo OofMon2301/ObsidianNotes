@@ -3,7 +3,7 @@ date: 2024-03-07
 type: Lecture
 subject: Templates
 tags: lecture
-Topic: : 
+Topic:
 ---
 # [[Seminar Homepage]]
 #ENGG1100 #Homepage

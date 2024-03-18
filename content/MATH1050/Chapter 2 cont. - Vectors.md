@@ -3,7 +3,7 @@ date: 2024-03-07
 type: Lecture
 subject: MATH1050
 tags: lecture
-Topic:: 
+Topic:
 ---
 # [[Chapter 2 cont. - Vectors]]
 #MATH1050 #Vectors

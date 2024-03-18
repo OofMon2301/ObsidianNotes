@@ -3,7 +3,7 @@ date: 2024-03-07
 type: Lecture
 subject: MATH1051
 tags: lecture
-Topic:: 
+Topic:
 ---
 # [[Chapter 2 - Vectors]]
 #Lecture Notes 2008

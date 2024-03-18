@@ -3,7 +3,7 @@ date: 2024-03-07
 type: Lecture
 subject: MATH1050
 tags: lecture
-Topic:: 
+Topic:
 ---
 # [[Chapter 5 - Matrices]]
 #MATH1050 #Matrices

@@ -3,7 +3,7 @@ date: 2024-03-07
 type: Lecture
 subject: Templates
 tags: lecture
-Topic:: 
+Topic:
 ---
 # [[Introduction to MATLAB]]
 #Chapter 0

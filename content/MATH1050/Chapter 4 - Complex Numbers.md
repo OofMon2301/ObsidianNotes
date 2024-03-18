@@ -3,7 +3,7 @@ date: 2024-03-07
 type: Lecture
 subject: 
 tags: lecture
-Topic:: Complex Numbers
+Topic: Complex Numbers
 ---
 # [[Chapter 4 - Complex Numbers]]
 #MATH1050 #ComplexNumbers

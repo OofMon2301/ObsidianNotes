@@ -3,7 +3,7 @@ date: 2024-03-07
 type: Lecture
 subject: 
 tags: lecture
-Topic:: Divisibility
+Topic: Divisibility
 ---
 # [[Divisibility]]
 #MATH1061

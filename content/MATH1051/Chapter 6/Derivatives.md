@@ -3,7 +3,7 @@ date: 2024-03-07
 type: Lecture
 subject: Chapter 5
 tags: lecture
-Topic:: 
+Topic:
 ---
 # [[Derivatives]]
 #MATH1051

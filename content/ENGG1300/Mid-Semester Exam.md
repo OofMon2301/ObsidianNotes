@@ -3,7 +3,7 @@ date: 2024-03-07
 type: Lecture
 subject: Chapter 6
 tags: lecture
-Topic:: 
+Topic: 
 ---
 # [[Mid-Semester Exam]]
 #ENGG1300

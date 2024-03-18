@@ -4,7 +4,7 @@ type: Lecture
 subject: Revision
 tags:
   - lecture
-"Topic:": Integration
+Topic: Integration
 ---
 # [[Integration]]
 #MATH1051

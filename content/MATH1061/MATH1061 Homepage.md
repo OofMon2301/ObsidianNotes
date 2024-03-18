@@ -3,7 +3,7 @@ date: 2024-03-07
 type: Lecture
 subject: MATH1061
 tags: lecture
-Topic:: 
+Topic:
 ---
 # [[MATH1061 Homepage]]
 #MATH1061

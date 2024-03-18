@@ -3,7 +3,7 @@ date: 2024-03-07
 type: Lecture
 subject: Lecture Notes 2008
 tags: lecture
-Topic:: 
+Topic:
 ---
 # [[Chapter 3 - Matrices and Linear Transformations]]
 #Lecture Notes 2008

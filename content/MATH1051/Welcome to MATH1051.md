@@ -3,7 +3,7 @@ date: 2024-03-07
 type: Lecture
 subject: Templates
 tags: lecture
-Topic:: 
+Topic:
 ---
 # [[Welcome to MATH1051]]
 #MATH1051

@@ -3,7 +3,7 @@ date: 2024-03-07
 type: Lecture
 subject: MATH1061
 tags: lecture
-Topic: : Conditional Statements
+Topic: Conditional Statements
 ---
 # [[Conditional Statements]]
 #MATH1061
